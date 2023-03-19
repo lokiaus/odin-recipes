@@ -2,12 +2,6 @@ body {
     background-color: black;
 }
 
-* {
-    color: white;
-    font-family:'Arial',sans-serif;
-    font-size: 40px;
-}
-
 h1 {
     text-align: center;
     font-size: 60px;
@@ -18,4 +12,16 @@ div {
     width: 50%;
     border: 3px solid rgb(47, 144, 135);
     padding: 10px;
+    color: white;
+    font-family:'Arial',sans-serif;
+    font-size: 40px;
+}
+
+.odin {
+    text-align: center;
+    font-size: 25px;
+}
+
+a:visited {
+    color: rgb(157, 59, 255);
 }
